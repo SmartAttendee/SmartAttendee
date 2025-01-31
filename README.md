@@ -19,10 +19,6 @@ Welcome to **SmartAttendee** 💼📊
 3. **Track Attendance** – Enable employees to mark attendance effortlessly.
 4. **Generate Reports** – View detailed attendance reports and export data.
 
-## Contribute
-
-We welcome contributions! If you'd like to improve **SmartAttendee**, feel free to fork this repository and submit a pull request.
-
 ## License
 
 SmartAttendee is licensed under the **MIT License**.
